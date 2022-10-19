@@ -1,4 +1,4 @@
-package com.examplelocalnotification.newarchitecture.components;
+package com.ricardobpaula.examplelocalnotification.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

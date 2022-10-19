@@ -1,4 +1,4 @@
-package com.examplelocalnotification.newarchitecture.modules;
+package com.ricardobpaula.examplelocalnotification.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

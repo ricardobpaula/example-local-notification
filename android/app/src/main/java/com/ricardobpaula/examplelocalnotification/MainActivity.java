@@ -1,4 +1,4 @@
-package com.examplelocalnotification;
+package com.ricardobpaula.examplelocalnotification;
 
 import android.os.Build;
 import android.os.Bundle;

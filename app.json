@@ -7,9 +7,15 @@
       "**/*"
     ],
     "plugins": [
-        [
-          "expo-notifications"          
-        ]
-    ]
+      [
+        "expo-notifications"
+      ]
+    ],
+    "android": {
+      "package": "com.ricardobpaula.examplelocalnotification"
+    },
+    "ios": {
+      "bundleIdentifier": "com.ricardobpaula.examplelocalnotification"
+    }
   }
 }

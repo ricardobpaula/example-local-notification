@@ -1,4 +1,4 @@
-package com.examplelocalnotification.newarchitecture;
+package com.ricardobpaula.examplelocalnotification.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -20,9 +20,9 @@ import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.examplelocalnotification.BuildConfig;
-import com.examplelocalnotification.newarchitecture.components.MainComponentsRegistry;
-import com.examplelocalnotification.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.ricardobpaula.examplelocalnotification.BuildConfig;
+import com.ricardobpaula.examplelocalnotification.newarchitecture.components.MainComponentsRegistry;
+import com.ricardobpaula.examplelocalnotification.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
