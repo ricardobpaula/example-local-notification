@@ -15,7 +15,7 @@ export const Home:React.FC = () => {
         await schedulePushNotification({
             title: 'Notificação teste',
             body: 'Corpo da notificação',
-            date: new Date(new Date().setSeconds(new Date().getSeconds() + 1))
+            date: new Date(new Date().setSeconds(new Date().getSeconds() + 30))
         })
         Alert.alert('Notificação agendada')
     }
